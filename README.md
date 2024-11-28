@@ -6,7 +6,7 @@ hardening d'un système GNU/Linux (debian12) en respectant les normes M.I de `AN
 - **Version** : 1.0
 - **Documents** : [fr_np_linux_configuration-v2.0](https://cyber.gouv.fr/publications/recommandations-de-securite-relatives-un-systeme-gnulinux)
 
-## R28 | Partitionnement type
+### R28 | Partitionnement type
 
 Création des partitions:
 
